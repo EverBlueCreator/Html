@@ -6,6 +6,6 @@ EverBlue Creator-----------------------------------------------------------
    
 3. --
    
-   The code in this branch are programmed by HTML and CSS.
+   The code in this branch are programmed by HTML, CSS and JavaScript.
    
 EverBlue Creator-----------------------------------------------------------
